@@ -1,0 +1,5 @@
+C:\Users\neno\AndroidstudioProjects\android-tesseract-ocr-master\app\build\intermediates\classes\debug
+C:\Users\neno\AndroidstudioProjects\android-tesseract-ocr-master\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-a1176d1e9b87737621847e15cf67ee8a41a72459.jar
+C:\Users\neno\AndroidstudioProjects\android-tesseract-ocr-master\app\build\intermediates\pre-dexed\debug\classes-0473c4480a4f0ccc39a3c71515784964fcdcf501.jar
+C:\Users\neno\AndroidstudioProjects\android-tesseract-ocr-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-bdd5a7a380a7048ddff2e67e8b853bf71bafd5e0.jar
+C:\Users\neno\AndroidstudioProjects\android-tesseract-ocr-master\app\build\intermediates\pre-dexed\debug\classes-ddb247e32a175f5592f32ac1effcffbeaa983fab.jar
